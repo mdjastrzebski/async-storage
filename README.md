@@ -2,7 +2,7 @@
 
 An asynchronous, persistent, key-value storage system for React Native.
 
-The underlying storage is not encrypted, so it should not be used to store sensitive data like passwords, access tokens, etc.
+*Note:* The underlying storage is not encrypted, so it should not be used to store sensitive data like passwords, access tokens, etc.
 
 ### AsyncStorage v2 is out!
 
